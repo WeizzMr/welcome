@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 welcome main
+=======
+welcome 
+b1 world 
+>>>>>>> b1
